@@ -7,7 +7,7 @@ Author: Max Sandelin [Published on Jun 28, 2016]
 Description: 
 Video is a walkthrough for "building a to-do list application from a simple 
 design sketch, using HTML, CSS and JavaScript. This video was meant to introduce 
-... to DOM manipulation and Event handlers in JavaScript. 
+... to DOM manipulation and Event handlers in JavaScript". 
 
 // From Youtube presentation
 Code repository: https://github.com/themaxsandelin/todo
